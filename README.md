@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**chhakuli123/chhakuli123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 🌱 I’m currently learning ... Complete Web-Development at [@ineuron](https://ineuron.ai/ "LCO HOME").
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[ <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sami.9482/)
+
+[ <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chhakuli-zingare-322986234/) 
+[ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@chhakuli) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chhakuli123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chhakuli123&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chhakuli123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
