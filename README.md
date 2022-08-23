@@ -1,6 +1,6 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+<h1 align='center'>
+  Hi there 👋 I'm Chhakuli 👨‍💻
+</h1
 
 
 - 🌱 I’m currently learning ... Complete Web-Development at [@ineuron](https://ineuron.ai/ "LCO HOME").
