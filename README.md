@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 [ <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sami.9482/)
+[ <img src= "https://img.shields.io/badge/FindCoder-177ce2?style=for-the-badge&logo=&logoColor=white" />](https://www.findcoder.io/u/chhakuli)
 
 [ <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chhakuli-zingare-322986234/) 
 [ <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@chhakuli) 
